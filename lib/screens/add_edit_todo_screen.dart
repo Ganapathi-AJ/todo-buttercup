@@ -3,7 +3,6 @@ import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 import 'package:animate_do/animate_do.dart';
 import '../models/todo_model.dart';
-import '../models/category_model.dart';
 import '../providers/todo_provider.dart';
 import '../providers/category_provider.dart';
 import '../constants/app_constants.dart';
