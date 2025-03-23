@@ -8,8 +8,6 @@ import 'providers/category_provider.dart';
 import 'providers/theme_provider.dart';
 import 'services/database_service.dart';
 import 'screens/home_screen.dart';
-import 'themes/app_theme.dart';
-import 'constants/app_constants.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
