@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:animate_do/animate_do.dart';
 import '../models/todo_model.dart';
-import '../models/category_model.dart';
 import '../constants/app_constants.dart';
 import '../utils/date_util.dart';
 import '../providers/category_provider.dart';
